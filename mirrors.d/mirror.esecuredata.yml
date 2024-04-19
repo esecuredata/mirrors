@@ -1,0 +1,14 @@
+name: mirror.esecuredata.com
+address:
+  http: http://mirror.esecuredata.com/almalinux/
+  https: https://mirror.esecuredata.com/almalinux/
+  rsync: rsync://mirror.esecuredata.com/almalinux/
+geolocation:
+  continent: North America
+  country: CA
+  state_province: BC
+  city: Vancouver
+update_frequency: 3h
+sponsor: EsecureData
+sponsor_url: https://www.esecuredata.com
+email: support@esecuredata.com
